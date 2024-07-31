@@ -2,7 +2,7 @@
 title: JavaScript Control Structures
 author: hcoco1
 date: 2024-07-05 14:10:00 +0800
-categories: [Web Development]
+categories: [Programming, Languages]
 tags: [javascript]
 render_with_liquid: false
 ---

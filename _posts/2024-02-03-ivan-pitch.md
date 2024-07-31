@@ -2,7 +2,7 @@
 title: hcoco1 Sample Pitch
 author: hcoco1
 date: 2024-02-03 14:10:00 +0800
-categories: [Career]
+categories: [Career, Interview]
 tags: [pitch]
 render_with_liquid: false
 ---

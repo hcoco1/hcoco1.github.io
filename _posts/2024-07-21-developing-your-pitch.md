@@ -2,7 +2,7 @@
 title: Developing Your Pitch
 author: hcoco1
 date: 2024-07-21 14:10:00 +0800
-categories: [Career]
+categories: [Career, Interview]
 tags: [pitch]
 render_with_liquid: false
 ---

@@ -1,61 +1,96 @@
-# Chirpy Starter
+# hcoco1 - Interview Preparation Hub (In progress)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## About
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Welcome to **hcoco1 - Interview Preparation Hub**, your ultimate resource for preparing for technical interviews. This site is dedicated to helping you excel in interviews for software development, full stack development, junior penetration testing, and more. Whether you're a beginner or an experienced professional, you'll find valuable resources to boost your knowledge and confidence.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Key Features
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+- **Comprehensive Study Guides:** In-depth guides covering various programming languages, frameworks, and tools.
+- **Practice Problems:** A wide range of coding problems to help you sharpen your problem-solving skills.
+- **Resource Library:** Curated list of books, articles, and videos for further learning.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## Main Categories
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### Programming
 
-## Prerequisites
+- **Languages**
+  - Python
+  - JavaScript
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
-## Installation
+- **Frameworks and Libraries**
+  - React
+  - Flask
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
 
-Then clone it to your local machine and run:
+### Tools and Environments
 
-```console
-$ bundle
-```
+- Integrated Development Environments (IDEs)
+- Version Control Systems (e.g., Git)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Containerization (e.g., Docker, Kubernetes)
+- Text Editors
 
-## Usage
+### Programming Concepts
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+- Object-Oriented Programming (OOP)
+- Functional Programming
+- Data Structures and Algorithms
+- Design Patterns
+- Concurrent and Parallel Programming
 
-## Contributing
+### Web Development
 
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
+- Front-End Development
+- Back-End Development
+- Full Stack Development
+- Web APIs
+- Web Security
 
-## License
 
-This work is published under [MIT][mit] License.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+### DevOps
+
+- Continuous Integration
+- Continuous Deployment
+- Infrastructure as Code (IaC)
+- Monitoring and Logging
+- Cloud Services (e.g., AWS, Azure, Google Cloud)
+
+### Software Testing
+
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+
+### Security
+
+- Secure Coding Practices
+- Penetration Testing
+- Cryptography
+- Application Security
+- Network Security
+
+### Other Topics
+
+- Open Source
+- Software Development Lifecycle (SDLC)
+- Agile Methodologies
+- Project Management
+- Career Development in Programming
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **Name:** Ivan Arias
+- **Email:** [arias.ivan@hcoco1.com](mailto:arias.ivan@hcoco1.com)
+- **GitHub:** [hcoco1](https://github.com/hcoco1)
+- **Twitter:** [@hcoco1](https://twitter.com/hcoco1)
+
+---
+
+Thank

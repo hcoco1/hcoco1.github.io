@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to **hcoco1 - Interview Preparation Hub**, your ultimate resource for preparing for technical interviews. This site is dedicated to helping you excel in interviews for software development, full stack development, junior penetration testing, and more. Whether you're a beginner or an experienced professional, you'll find valuable resources to boost your knowledge and confidence.
+Welcome to **hcoco1 - Interview Preparation Hub**, your ultimate resource for preparing for technical interviews. This site is dedicated to helping you excel in interviews for software development, full stack development, junior penetration testing, and more.
 
 ## Key Features
 

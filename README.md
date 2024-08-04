@@ -91,6 +91,4 @@ For any inquiries or feedback, feel free to reach out:
 - **GitHub:** [hcoco1](https://github.com/hcoco1)
 - **Twitter:** [@hcoco1](https://twitter.com/hcoco1)
 
----
 
-Thank

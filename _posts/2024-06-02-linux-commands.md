@@ -283,4 +283,3 @@ The Linux command line is a text interface to your computer. Often referred to a
   history
   ```
 
-Feel free to copy and paste this into your Markdown file!

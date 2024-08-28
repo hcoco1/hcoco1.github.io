@@ -49,6 +49,55 @@ Your elevator pitch should:
 (Developing Your Elevator Pitch, n.d.).
 
 
+# Perfect Your Pitch for Cybersecurity
+
+## What is a "Pitch?"
+
+A pitch is an introduction. It's the response you give when someone says, "Tell me about yourself."
+- It's a greeting - how you introduce yourself.
+- It represents your "brand" - the reputation you create when networking with others.
+- It's your "hook" that describes the experiences, skills, and talents that are unique to you.
+
+## Why is a Pitch Important?
+
+Your pitch should be specific, short, sweet, and flexible. Think of your pitch like a rubber band. You will stretch and condense it as needed for whatever situation you find yourself in.
+- **Career Fair?** Quick pitch.
+- **Networking event?** Use it to create conversation.
+- **First in-person interview?** Get more specific.
+- **With your Career Success Coach?** Practice!
+
+It's important to practice your pitch so that you are ready in all of the following settings and experiences:
+- **Technical Networking Events**
+- **Interviews**
+- **Coffee Chats**
+- **Informational Sessions**
+- **Personal Branding** (LinkedIn + Portfolio Website Summary)
+- **Meeting People in General**
+
+## Think of Your Pitch as a Transferable [Power] Skill!
+
+Delivering a strong pitch can aid in showcasing your effective communication skills, a top transferable skill. Your pitch also allows you to articulate other transferable skills that you possess and have demonstrated in professional environments.
+
+If you've already worked through the Identifying Your Transferable Skills lesson, then you know what your skills superpowers are! (If you haven't reviewed the lesson, now is a great time to do so!)
+
+Transferable skills are habits that shape how you work autonomously, and in collaboration with others. According to Indeed, top transferable skills include:
+
+- **Integrity**
+- **Dependability**
+- **Effective communication**
+- **Open-mindedness**
+- **Teamwork**
+- **Creativity**
+- **Problem-solving**
+- **Critical thinking**
+- **Adaptability**
+- **Organization**
+- **Willingness to learn**
+- **Empathy**
+
+Weaving these types of skills into your pitch is a great way to demonstrate your top transferable skills.
+
+
 ## References
 
 - Developing your elevator pitch. Center for Career Development. https://careerdevelopment.princeton.edu/guides/networking/developing-your-elevator-pitch.

@@ -65,6 +65,19 @@ My academic success shows my dedication and efficiency, often exceeding expectat
 
 I am eager to apply my skills in a professional setting. I am particularly excited about the opportunities to learn and grow in web development and cybersecurity, which fills me with optimism about my potential in these fields.
 
+#### Version III
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nILBsKF3_oo?si=tI0GZAcfAXr1gA3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+##### Transcript
+
+Hi, I’m Ivan Arias, a recent graduate of an immersive Cybersecurity and Web Development program. Before transitioning into this field, I spent over 10 years as a Geological Engineer, specializing in locating and evaluating oil and gas reserves and problem-solving in high-pressure, complex environments.
+
+My shift into cybersecurity and web development is driven by a deep passion for technology and the growing need to protect information and systems. I’ve found that my critical thinking and problem-solving skills, honed during my engineering career, are ideally suited to tackling the complex challenges of cybersecurity. I excel in collaborating with diverse teams, where I believe varied perspectives lead to innovative solutions.
+
+My strengths include analytical thinking, creative problem-solving, attention to detail, and an ability to adapt to new challenges and consistently deliver high-quality work under tight deadlines. I’m currently exploring opportunities as a Cybersecurity Analyst or Web Developer, where I can apply my technical skills to build robust security systems that safeguard organizations from cyber threats while expanding my expertise in the field.
+
 
 ### Web Development + Cybersecurity + AWS + DevOps
 
@@ -103,8 +116,3 @@ I am eager to apply my skills professionally, where I can continue to grow and l
  <audio controls> <source src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/pitch_03.wav" type="audio/mp3"> Your browser does not support the audio element. </audio> 
 
 
-
-
-### References 
-
-- [Developing your elevator pitch. (n.d.). Center for Career Development.](https://careerdevelopment.princeton.edu/guides/networking/developing-your-elevator-pitch)

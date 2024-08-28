@@ -64,3 +64,14 @@ This tutorial will show the categories and subcategories used in this blog site
 - Agile Methodologies
 - Project Management
 - Career Development in Programming
+
+
+## Test
+
+### Embedding a PDF via an HTML <iframe> Tag
+
+```
+<iframe src="/assets/file.pdf" width="100%" height="600"></iframe>
+```
+<iframe src="/assets/session04.pdf" width="100%" height="800"></iframe>
+

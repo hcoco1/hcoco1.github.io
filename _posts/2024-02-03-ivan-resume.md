@@ -1,7 +1,7 @@
 ---
 title: Ivan's Resume
 author: hcoco1
-date: 2024-02-01 14:10:00 +0800
+date: 2024-08-28 14:10:00 +0800
 categories: [Career, Interview]
 tags: [resume]
 render_with_liquid: false

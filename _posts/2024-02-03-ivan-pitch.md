@@ -67,12 +67,14 @@ I am eager to apply my skills in a professional setting. I am particularly excit
 
 #### Version III
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nILBsKF3_oo?si=tI0GZAcfAXr1gA3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pbIx2ZDMRUg?si=hHU2MfetKNJRl6zr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ##### Transcript
 
-Hi, I’m Ivan Arias, a recent graduate of an immersive Cybersecurity and Web Development program. Before transitioning into this field, I spent over 10 years as a Geological Engineer, specializing in locating and evaluating oil and gas reserves and problem-solving in high-pressure, complex environments.
+Hi, I’m Ivan Arias, a recent graduate of an immersive Cybersecurity and Web Development program.
+
+Before transitioning into this field, I dedicated over a decade to working as a Geological Engineer, where I specialized in identifying and assessing oil and gas reserves and solving complex problems in high-pressure environments.
 
 My shift into cybersecurity and web development is driven by a deep passion for technology and the growing need to protect information and systems. I’ve found that my critical thinking and problem-solving skills, honed during my engineering career, are ideally suited to tackling the complex challenges of cybersecurity. I excel in collaborating with diverse teams, where I believe varied perspectives lead to innovative solutions.
 

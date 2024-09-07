@@ -4,6 +4,7 @@ author: hcoco1
 date: 2024-08-28 14:10:00 +0800
 categories: [Career, Interview]
 tags: [questions, start_method]
+image: /assets/unsplash (2).jpg
 render_with_liquid: false
 ---
 

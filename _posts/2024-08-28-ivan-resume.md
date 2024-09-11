@@ -12,5 +12,5 @@ render_with_liquid: false
 #### Cybersecurity + Web Development + IaC
 
 
-<iframe src="/assets/Ivan_Arias_Resume.pdf" width="100%" height="800"></iframe>
+<iframe src="https://hcoco1-website-bucket-12345.s3.amazonaws.com/Ivan_Arias_Resume.pdf" width="100%" height="800"></iframe>
 

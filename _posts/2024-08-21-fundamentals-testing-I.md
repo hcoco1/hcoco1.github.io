@@ -2,8 +2,8 @@
 title: "Software Testing: Basic Concepts"
 author: hcoco1
 date: 2024-08-21 14:10:00 +0800
-categories: [Software Testing, Fundamentals]
-tags: [testing]
+categories: [ISTQB, Chapter-1]
+tags: [software-testing]
 # image: /assets/unsplash (2).jpg
 render_with_liquid: true
 ---

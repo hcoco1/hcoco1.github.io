@@ -2,8 +2,8 @@
 title: "Software Testing: Testing Principles"
 author: hcoco1
 date: 2024-08-20 14:10:00 +0800
-categories: [Software Testing, Fundamentals]
-tags: [testing]
+categories: [ISTQB, Chapter-1]
+tags: [software-testing]
 render_with_liquid: true
 ---
 

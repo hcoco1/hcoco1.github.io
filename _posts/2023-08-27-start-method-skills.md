@@ -1,7 +1,7 @@
 ---
 title: STAR Method Scenarios for Transferable Skills
 author: hcoco1
-date: 2024-08-28 14:10:00 +0800
+date: 2023-08-28 14:10:00 +0800
 categories: [Career, Interview]
 tags: [questions, start_method]
 image: /assets/unsplash (2).jpg

@@ -8,11 +8,10 @@ render_with_liquid: false
 ---
 
 ## Elevator Pitch
+
 ---
 
-<iframe width="720" height="405"  src="https://www.youtube.com/embed/nDmjEXNlsj8?si=x7yG3M40RN50RGat" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="360" height="640" src="/assets/Pitch_ivan_voice3.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Resume
 
@@ -21,7 +20,6 @@ render_with_liquid: false
 ![Desktop View](/assets/resume_iva.png){: w="700" h="400" }
 
 ---
-
 
   <div>
     <a

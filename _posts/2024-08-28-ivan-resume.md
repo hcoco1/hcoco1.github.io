@@ -11,7 +11,15 @@ render_with_liquid: false
 
 ---
 
-<iframe width="360" height="640" src="/assets/Pitch_ivan_voice3.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe
+    width="360"
+    height="640"
+    src="https://www.youtube.com/embed/w9d4PVlyLWY?si=quY7mnged4levZAa"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen></iframe>
 
 ## Resume
 

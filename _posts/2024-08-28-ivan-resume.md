@@ -7,14 +7,14 @@ tags: [resume]
 render_with_liquid: false
 ---
 
-## Elevator Pitch
+## Elevator Pitch (AI Voiced)
 
 ---
 
   <iframe
     width="360"
     height="640"
-    src="https://www.youtube.com/embed/w9d4PVlyLWY?si=quY7mnged4levZAa"
+    src="https://www.youtube.com/embed/6mBQVktCoxM?si=QWinQWPHEnHKjJKe"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -23,16 +23,124 @@ render_with_liquid: false
 
 ## Resume
 
+# Ivan Arias
+
+📞 +1 (774) 810-1227  
+✉️ arias.ivan@gmail.com  
+📍 Zaragoza, Spain
+
+[LinkedIn](https://www.linkedin.com/in/hcoco1/) | [GitHub](https://github.com/hcoco1) | [Portfolio](https://www.hcoco1.com)
+
 ---
 
-![Desktop View](/assets/resume_iva.png){: w="700" h="400" }
+## Aspiring DevOps Engineer | Hands-On Internship at KubeCraft
+
+Graduated with cybersecurity and web development certifications, specializing in cloud infrastructure, containerization, and full-stack development.  
 
 ---
 
-  <div>
-    <a
-      href="https://hcoco1-website-bucket-12345.s3.amazonaws.com/Ivan_Arias_Resume.pdf"
-      download
-      >Download (pdf)</a
-    >
-  </div>
+## 🛠 Technical Skills
+
+- **Security Tools:** Metasploit, Burp Suite  
+- **Frameworks:** React, Flask  
+- **Networking:** Ubuntu  
+- **Development Tools:** SQLAlchemy, Bootstrap  
+- **Operating Systems:** Linux, Windows  
+- **Cloud Tools:** Boto3, CDK, CloudFormation, Firebase  
+- **Programming:** Python, JavaScript, SQL  
+- **IaC & Containers:** Terraform and Docker
+
+
+---
+
+## 💻 Technical Projects
+
+### 🔐 Hacking Mr. Robot  
+[GitHub](https://github.com/hcoco1/Career-Simulation-4) | [Live Report](https://hcoco1.github.io/Career-Simulation-4/) | [Demo](https://youtu.be/6JSVCGe07eE)  
+- Ethical hacking methodology targeting a vulnerable WordPress site (Mr. Robot VM).  
+- Tools used: Nmap, Gobuster, Nikto, Python, Hydra, Metasploit  
+
+### 📊 Student Performance Dashboard  
+[GitHub](https://github.com/hcoco1/hcoco1-dashboard) | [Live App](https://hcoco1.pythonanywhere.com) | [Demo](https://youtu.be/Iw42U5wybu8) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard)  
+*(Username: hcoco1, Password: pythonpython)*  
+- Interactive dashboard for visualizing student grades using Flask, Dash, Plotly, Bootstrap.  
+
+### 🔎 Python Log File Analysis  
+[GitHub](https://github.com/hcoco1/Python-Assessment) | [Live Report](https://hcoco1.github.io/Python-Assessment/)  
+- Regex-based parsing of Apache logs to extract meaningful patterns.
+
+### ✅ Audits Tool  
+[GitHub](https://github.com/hcoco1/todo-list-local-storage) | [Live App](https://www.audits.hcoco1.com/signin) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool)  
+- React app with Firebase backend to manage audit data (usernames, processes, descriptions).  
+
+### ☁️ Terraform AWS Lab  
+[GitLab](https://gitlab.com/hcoco11/terraform-learn) | [Demo](https://youtu.be/SvPrUltymLw)  
+- Automates AWS EC2 provisioning, Docker installation, and NGINX setup using Terraform.
+
+---
+
+## 💼 Experience
+
+### DevOps Assistant – KubeCraft | online, Netherlands.  
+*Jun 2025 – Present*  
+Actively participating in KubeCraft's hands-on DevOps internship program, focused on building production-ready skills through real-world labs, coaching, and project execution. Current focus includes:
+
+- Linux system administration
+- Kubernetes fundamentals and homelab deployment
+- CI/CD pipelines (GitHub Actions, Azure DevOps)
+- Infrastructure as Code (Terraform)
+- Monitoring and Observability basics
+- Personal branding and job search strategy
+
+Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship at [KubeCraft](https://www.skool.com/kubecraft/about)
+
+### Fulfillment Associate – Amazon | Orlando, FL  
+*Nov 2020 – Jun 2025*  
+- Established safety protocols reducing workplace accidents.  
+- Scanned, inspected, and sorted 2,000+ packages daily with 90%+ accuracy.  
+- Performed ICQA audits, coached associates on SOPs.
+
+### Landscaper – Self-Employed | Orlando, FL  
+*Oct 2019 – Nov 2020*  
+- Served 20+ clients with 100% satisfaction.  
+- Delivered projects 15% faster than average timelines.  
+- Maintained tools and operations for consistent service quality.
+
+### Sedimentologist & Stratigrapher – PDVSA | Venezuela  
+*Jan 2005 – Jan 2019*  
+- Conducted GIS mapping and geostatistical modeling.  
+- Improved hydrocarbon reservoir prediction accuracy by 30%.  
+- Collaborated across geoscience teams to speed project delivery by 10%.
+
+---
+
+## 🎓 Education
+
+### KubeCraft's hands-on DevOps internship – *[KubeCraft](https://www.skool.com/kubecraft/about)*  
+*Jun 2025 – Present*  
+- Actively participating in KubeCraft's hands-on DevOps internship program, focused on building production-ready skills through real-world labs, coaching, and project execution.
+- Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship.
+
+### Cloud Mastery Bootcamp – *Digital Cloud Training*  
+*Jan 2024 – Nov 2024*  
+- Certified Kubernetes Administrator (CKA)  
+- Infrastructure as Code with Terraform  
+- Python and DevOps automation on AWS  
+- AWS Solutions Architecture  
+- Cloud Foundations and Linux
+
+### Cybersecurity Bootcamp – *Fullstack Academy*  
+*Jan 2024 – July 2024*  
+- Red Team: Exploitation, social engineering, Metasploit, privilege escalation  
+- Blue Team: System hardening, log analysis, Splunk, digital forensics  
+- Python for automation + SysAdmin (Linux/Windows)
+
+### Full Stack Engineering – *Flatiron School*  
+*Jan 2023 – Oct 2023*  
+- Full-stack apps using Python (Flask), React, SQL, and SQLAlchemy  
+- Built scalable, robust applications integrating these technologies
+
+---
+
+> 💬 *Need more info or want to collaborate? Feel free to reach out at [www.hcoco1.com](https://www.hcoco1.com).*
+

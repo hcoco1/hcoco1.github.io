@@ -14,7 +14,7 @@ Graduated with cybersecurity and web development certifications, specializing in
 
 ---
 
-  <iframe
+<!--   <iframe
     width="360"
     height="640"
     src="https://www.youtube.com/embed/6mBQVktCoxM?si=QWinQWPHEnHKjJKe"
@@ -22,8 +22,8 @@ Graduated with cybersecurity and web development certifications, specializing in
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen></iframe>
----
+    allowfullscreen></iframe> -->
+    ---
 
 <!-- DevOps themed version -->
 ## 🛠️ Resume
@@ -71,7 +71,7 @@ Graduated with cybersecurity and web development certifications, specializing in
 
 ---
 
-## Aspiring DevOps Engineer | Hands-On Internship at KubeCraft
+## Aspiring DevOps Engineer 
 
 Graduated with cybersecurity and web development certifications, specializing in cloud infrastructure, containerization, and full-stack development.  
 
@@ -127,7 +127,7 @@ Graduated with cybersecurity and web development certifications, specializing in
 
 ## 💼 Experience
 
-### DevOps Assistant – KubeCraft | online, Netherlands  
+<!-- ### DevOps Assistant – KubeCraft | online, Netherlands  
 
 *Jun 2025 – Present*  
 Actively participating in KubeCraft's hands-on DevOps internship program, focused on building production-ready skills through real-world labs, coaching, and project execution. Current focus includes:
@@ -139,7 +139,7 @@ Actively participating in KubeCraft's hands-on DevOps internship program, focuse
 - Monitoring and Observability basics
 - Personal branding and job search strategy
 
-Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship at [KubeCraft](https://www.skool.com/kubecraft/about)
+Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship at [KubeCraft](https://www.skool.com/kubecraft/about) -->
 
 ### Fulfillment Associate – Amazon | Orlando, FL  
 
@@ -169,12 +169,12 @@ Completing projects and challenges with feedback from senior engineers. Building
 
 ## 🎓 Education
 
-### KubeCraft's hands-on DevOps internship – *[KubeCraft](https://www.skool.com/kubecraft/about)*  
+<!-- ### KubeCraft's hands-on DevOps internship – *[KubeCraft](https://www.skool.com/kubecraft/about)*  
 
 *Jun 2025 – Present*  
 
 - Actively participating in KubeCraft's hands-on DevOps internship program, focused on building production-ready skills through real-world labs, coaching, and project execution.
-- Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship.
+- Completing projects and challenges with feedback from senior engineers. Building a public portfolio and preparing for job interviews through structured learning and mentorship. -->
 
 ### Cloud Mastery Bootcamp – *Digital Cloud Training*  
 

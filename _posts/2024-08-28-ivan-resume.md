@@ -1,20 +1,15 @@
 ---
 
-title: Ivan Arias
+title: Resume
 author: hcoco1
 date: 2024-08-28 14:10:00 +0800
 categories: [Career, DevOps]
 tags: [resume]
 render\_with\_liquid: false
 pin: true
-excerpt_separator: <!--more-->
+description: Ivan Arias | Aspiring DevOps Engineer | Graduated with cybersecurity and web development certifications, specializing in cloud infrastructure, containerization, and full-stack development 
 
 ---
-
-
-### <span style="color:#0ea5e9;">Aspiring DevOps Engineer  |</span>
-
-<p>Graduated with cybersecurity and web development certifications, specializing in cloud infrastructure, containerization, and full-stack development | </p>
 
 ✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) 
 📍 Spain

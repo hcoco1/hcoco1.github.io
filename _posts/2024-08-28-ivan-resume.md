@@ -1,5 +1,5 @@
 ---
-title: Resume Ivan Arias | Aspiring DevOps Engineer 
+title: Ivan Arias | Aspiring DevOps Engineer 
 author: hcoco1
 date: 2024-08-28 14:10:00 +0800
 categories: [Career, Interview]
@@ -10,9 +10,8 @@ pin: true
 
 Graduated with cybersecurity and web development certifications, specializing in cloud infrastructure, containerization, and full-stack development.  
 
-## Elevator Pitch (AI Voiced)
+<!-- ## Elevator Pitch (AI Voiced) -->
 
----
 
 <!--   <iframe
     width="360"
@@ -23,9 +22,7 @@ Graduated with cybersecurity and web development certifications, specializing in
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen></iframe> -->
-    ---
-
-<!-- DevOps themed version -->
+  <!-- DevOps themed version -->
 ## 🛠️ Resume
 
 <div style="

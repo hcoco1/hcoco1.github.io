@@ -3,8 +3,16 @@
 icon: fas fa-info-circle
 order: 4
 ---
+# Hey there 👋
 
-Hi! I'm **Ivan Arias**, an aspiring DevOps Engineer passionate about automation, cloud infrastructure, and secure systems.
+## I'm Ivan
+
+### Aspiring DevOps Engineer
+
+- Graduated with cybersecurity and web development certifications.
+- Proficient in security tools such as Metasploit and Burp Suite.
+- Proficient in React and Flask, and cloud tools including AWS Services, Terraform, and Docker.
+
 
 ✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) 
 📍 Zaragoza, Spain

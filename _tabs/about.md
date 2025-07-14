@@ -3,15 +3,16 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Hey there 👋
 
-## I'm Ivan
+## I'm Ivan Arias
 
-### Aspiring DevOps Engineer
+>With a background in Cybersecurity and Web Development, currently focused on becoming a DevOps Engineer. My career began in geological engineering, where I spent over 10 years evaluating oil and gas reservoirs, developing key skills such as analysis, problem-solving, and working under pressure.
 
-- Graduated with cybersecurity and web development certifications.
-- Proficient in security tools such as Metasploit and Burp Suite.
-- Proficient in React and Flask, and cloud tools including AWS Services, Terraform, and Docker.
+>Driven by my passion for technology, I transitioned into the IT world with a strong interest in automation, security, and system optimization. Today, I'm diving deeper into DevOps, combining knowledge of development, operations, and infrastructure to streamline processes and build more secure, efficient, and scalable systems.
+
+>My current focus includes practices like continuous integration, automation, and infrastructure as code. My previous experience in high-pressure environments has prepared me well for the challenges of the DevOps ecosystem, where collaboration, agility, and continuous delivery are essential.
+
+>I'm seeking opportunities to apply and further develop my skills in DevOps, contributing to both the security and performance of modern systems.
 
 
 ✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) 

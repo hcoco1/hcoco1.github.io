@@ -1,5 +1,5 @@
 ---
-title: Resumen Ivan Arias
+title: Resumen DevOps Ivan Arias
 author: hcoco1
 date: 2025-07-20 16:10:00 +0800
 categories: [Career]

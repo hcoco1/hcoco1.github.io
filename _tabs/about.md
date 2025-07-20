@@ -4,23 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## I'm Ivan Arias
+## 🧠 Aspiring DevOps Engineer | Cybersecurity & Cloud Enthusiast
 
->With a background in Cybersecurity and Web Development, currently focused on becoming a DevOps Engineer. My career began in geological engineering, where I spent over 10 years evaluating oil and gas reservoirs, developing key skills such as analysis, problem-solving, and working under pressure.
+> I'm Iván Arias — former geological engineer turned IT professional, now focused on DevOps, cloud, and automation. My background combines 10+ years of analytical work under pressure with recent training in web development, cybersecurity, and cloud infrastructure.
 
->Driven by my passion for technology, I transitioned into the IT world with a strong interest in automation, security, and system optimization. Today, I'm diving deeper into DevOps, combining knowledge of development, operations, and infrastructure to streamline processes and build more secure, efficient, and scalable systems.
+> 🔧 Skills: Terraform, AWS, Docker, Python, Linux, GitHub Actions, React, Flask
 
->My current focus includes practices like continuous integration, automation, and infrastructure as code. My previous experience in high-pressure environments has prepared me well for the challenges of the DevOps ecosystem, where collaboration, agility, and continuous delivery are essential.
+> I'm looking for junior roles in DevOps, Cloud, or IT Support where I can grow, automate systems, and contribute to secure, scalable environments.
 
->I'm seeking opportunities to apply and further develop my skills in DevOps, contributing to both the security and performance of modern systems.
+---
 
-
-✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) 
-📍 Zaragoza, Spain
+✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/hcoco1/) | [GitHub](https://github.com/hcoco1) | [Portfolio](https://www.hcoco1.com)
 
-
+---
 
 ## 🛠 Technical Skills
 

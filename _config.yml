@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Interview # the main title
+title: My Notes # the main title
 
-tagline: Preparation Hub # it will display as the sub-title
+tagline: Documenting my Journey # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Aspiring DevOps Engineer

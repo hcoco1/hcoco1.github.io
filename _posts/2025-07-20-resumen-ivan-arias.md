@@ -6,9 +6,9 @@ categories: [Career]
 tags: [resume]
 render_with_liquid: false
 pin: true
+description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube
 ---
 
-### 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube
 
 > Soy Iván Arias, ex ingeniero geológico convertido en profesional IT, ahora enfocado en DevOps, cloud y automatización. Mi experiencia combina más de 10 años de trabajo analítico bajo presión con formación reciente en desarrollo web, ciberseguridad e infraestructura en la nube.
 

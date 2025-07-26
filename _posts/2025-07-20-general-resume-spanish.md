@@ -6,15 +6,9 @@ categories: [Career]
 tags: [resume]
 render_with_liquid: false
 pin: false
+description: Mozo de Almacén | Logística y Control de Calidad
 ---
 
-### **Ivan Arias**
-
-📞 +34 (666) 689236 | 📧 [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) | 📍 Zaragoza, Spain.
-
----
-
-### 🧱 **MOZO DE ALMACÉN**
 
 Profesional orientado al detalle con experiencia en logística, auditoría y protocolos de seguridad. Historial comprobado de eficiencia y precisión en entornos de ritmo acelerado. Comunicador efectivo, con capacidades de liderazgo y fuerte compromiso con los estándares de seguridad y rendimiento.
 

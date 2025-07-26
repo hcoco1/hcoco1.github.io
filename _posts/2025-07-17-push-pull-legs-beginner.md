@@ -5,12 +5,9 @@ date: 2025-05-29 14:10:00 +0800
 categories: [Workouts, Routine]
 tags: [gym]
 render_with_liquid: false
+description: Push-Pull-Legs (PPL) Workout Plan  🚴‍♂️🏋️‍♂️🏊‍♂️🤸‍♂️🏃‍♂️
 ---
 
-
-Push-Pull-Legs gym routine with 3 compound and 3 core exercises per day. Includes programming notes, alternatives, and a weekly template.
-
-### **Push-Pull-Legs (PPL) Workout Plan**  🚴‍♂️🏋️‍♂️🏊‍♂️🤸‍♂️🏃‍♂️
 
 *(3 exercises + 3 core exercises per day)*  
 

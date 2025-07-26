@@ -5,11 +5,8 @@ date: 2025-07-25 14:10:00 +0800
 categories: [Workouts, Routine]
 tags: [gym]
 render_with_liquid: false
+description: 💪 Push-Pull-Legs Gym Routine
 ---
-
----
-
-# 💪 Push-Pull-Legs Gym Routine
 
 ## 🗓️ Weekly Schedule Options
 

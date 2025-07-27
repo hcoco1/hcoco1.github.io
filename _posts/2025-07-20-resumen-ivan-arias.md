@@ -1,140 +1,134 @@
 ---
-title: Resumen DevOps Ivan Arias
+title: Ingeniero Ivan Arias
 author: hcoco1
-date: 2025-07-20 16:10:00 +0800
+date: 2025-07-27 16:10:00 +0800
 categories: [Career]
 tags: [resume]
 render_with_liquid: false
 pin: true
-description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube
+toc: false
+description: Ingeniero Geológico con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack.
 ---
 
+<article style="font-family: sans-serif; max-width: 800px; margin: auto; padding: 1em; line-height: 1.5;">
 
-> Soy Iván Arias, ex ingeniero geológico convertido en profesional IT, ahora enfocado en DevOps, cloud y automatización. Mi experiencia combina más de 10 años de trabajo analítico bajo presión con formación reciente en desarrollo web, ciberseguridad e infraestructura en la nube.
+  <h1 style="font-size: 24px; margin-bottom: 0; text-align: center">Ivan Arias</h1>
+  <p style="margin-top: 4px; text-align: center">
+  Zaragoza, Spain | arias.ivan@gmail.com |
+  <a href="https://www.linkedin.com/in/hcoco1/">LinkedIn</a> |
+  <a href="https://github.com/hcoco1">GitHub</a> |
+  <a href="https://www.hcoco1.com">Portfolio</a>
+</p>
 
-> 🔧 Habilidades: Terraform, AWS, Docker, Python, Linux, GitHub Actions, React, Flask
+  <h3 style="text-align: center"><strong>Entry-Level DevOps & Cloud Security | AWS • Python • Linux </strong></h3>
 
-> Busco roles junior en DevOps, Cloud o Soporte IT donde pueda crecer, automatizar sistemas y contribuir a entornos seguros y escalables.
+  <hr>
 
----
+  <h2 style="font-size: 18px; text-align: center">SUMARIO PROFESIONAL</h2>
+  <p style="text-align: justify;">
+    Ingeniero Geológico con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack. Recientemente formado en AWS, Python, Linux, React, Flask y Terraform mediante bootcamps intensivos. Aplico una mentalidad ingenieril para construir sistemas seguros, escalables y eficientes.
+  </p>
 
-✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/hcoco1/) | [GitHub](https://github.com/hcoco1) | [Portafolio](https://www.hcoco1.com)
+  <hr>
 
----
+  <h2 style="font-size: 18px;text-align: center">HABILIDADES TECNICAS</h2>
+  <p>AWS (EC2, S3, IAM, VPC), Python, Flask, Linux, Git, Bash, Terraform, Wireshark, Nmap, SQL, Metasploit, VS Code</p>
 
-## 🛠 Habilidades Técnicas
+  <h2 style="font-size: 18px;text-align: center">CERTIFICACIONES</h2>
+  <p><strong>LPIC-1</strong> – Linux Professional Institute Certification (en progreso, prevista para noviembre de 2025)</p>
 
-* **Herramientas de Seguridad:** Metasploit, Burp Suite
-* **Frameworks:** React, Flask
-* **Redes:** Ubuntu
-* **Herramientas de Desarrollo:** SQLAlchemy, Bootstrap
-* **Sistemas Operativos:** Linux, Windows
-* **Herramientas Cloud:** Boto3, CDK, CloudFormation, Firebase
-* **Lenguajes de Programación:** Python, JavaScript, SQL
-* **IaC y Contenedores:** Terraform y Docker
+  <hr>
 
----
+  <h2 style="font-size: 18px; text-align: center">PROYECTOS TECNICOS</h2>
 
-## 💻 Proyectos Técnicos
-
-### 🔐 Hacking Mr. Robot
-
-[GitHub](https://github.com/hcoco1/Career-Simulation-4) | [Informe en Vivo](https://hcoco1.github.io/Career-Simulation-4/) | [Demo](https://youtu.be/6JSVCGe07eE)
-
-* Metodología de hacking ético dirigida a un sitio WordPress vulnerable (VM de Mr. Robot).
-* Herramientas usadas: Nmap, Gobuster, Nikto, Python, Hydra, Metasploit
-
-### 📊 Panel de Rendimiento Estudiantil
-
-[GitHub](https://github.com/hcoco1/hcoco1-dashboard) | [App en Vivo](https://hcoco1.pythonanywhere.com) | [Demo](https://youtu.be/Iw42U5wybu8) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard)
-*(Usuario: hcoco1, Contraseña: pythonpython)*
-
-* Panel interactivo para visualizar calificaciones estudiantiles usando Flask, Dash, Plotly y Bootstrap.
-
-### 🔎 Evaluación Técnica en Python
-
-[GitHub](https://github.com/hcoco1/Python-Assessment) | [Informe en Vivo](https://hcoco1.github.io/Python-Assessment/)
-
-* Análisis de logs de Apache con expresiones regulares para extraer patrones útiles.
-
-### ✅ Herramienta de Auditorías
-
-[GitHub](https://github.com/hcoco1/todo-list-local-storage) | [App en Vivo](https://www.audits.hcoco1.com/signin) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool)
-
-* Aplicación React con backend en Firebase para gestionar datos de auditorías (usuarios, procesos, descripciones).
-
-### ☁️ Laboratorio Terraform en AWS
-
-[GitLab](https://gitlab.com/hcoco11/terraform-learn) | [Demo](https://youtu.be/SvPrUltymLw)
-
-* Automatiza el aprovisionamiento de instancias EC2, instalación de Docker y configuración de NGINX usando Terraform.
-
----
-
-## 🗓️ <u style="color:#4A90E2;">Experiencia</u>
-
-<div style="border-left: 3px solid #4A90E2; padding-left: 10px; margin-bottom: 20px;">
-  <strong>Fulfillment Associate</strong> – Amazon | <em>Orlando, FL</em><br>
-  <small><i>Nov 2020 – Jun 2025</i></small>
+  <h4 style="margin-bottom: 2px;">Hacking Mr. Robot</h4>
+  <p style="margin: 0;">
+    <a href="https://github.com/hcoco1/Career-Simulation-4">GitHub</a> |
+    <a href="https://hcoco1.github.io/Career-Simulation-4/">Informe en Vivo</a> |
+    <a href="https://youtu.be/6JSVCGe07eE">Demo</a>
+  </p>
   <ul>
-    <li>✅ Establecí protocolos de seguridad que redujeron accidentes laborales.</li>
-    <li>📦 Escaneé, inspeccioné y clasifiqué más de 2,000 paquetes diarios con una precisión superior al 90%.</li>
-    <li>🗞️ Realicé auditorías ICQA y formé a asociados sobre procedimientos estándar.</li>
+    <li>Metodología de hacking ético dirigida a un sitio WordPress vulnerable (VM de Mr. Robot).</li>
+    <li>Herramientas usadas: Nmap, Gobuster, Nikto, Python, Hydra, Metasploit.</li>
   </ul>
 
-<strong>Jardinero</strong> – Autónomo | <em>Orlando, FL</em><br> <small><i>Oct 2019 – Nov 2020</i></small>
-
+  <h4 style="margin-bottom: 2px;">Evaluación Técnica en Python</h4>
+  <p style="margin: 0;">
+    <a href="https://github.com/hcoco1/Python-Assessment">GitHub</a> |
+    <a href="https://hcoco1.github.io/Python-Assessment/">Informe</a>
+  </p>
   <ul>
-    <li>🌿 Atendí a más de 20 clientes con un 100% de satisfacción.</li>
-    <li>⏱️ Entregué proyectos un 15% más rápido que el promedio.</li>
-    <li>🔧 Mantuve herramientas y operaciones para garantizar calidad constante.</li>
+    <li>Análisis de logs de Apache con expresiones regulares para extraer patrones útiles.</li>
   </ul>
 
-<strong>Sedimentólogo y Estratígrafo</strong> – PDVSA | <em>Venezuela</em><br> <small><i>Jan 2005 – Jan 2019</i></small>
-
+  <h4 style="margin-bottom: 2px;">Herramienta de Auditorías</h4>
+  <p style="margin: 0;">
+    <a href="https://github.com/hcoco1/todo-list-local-storage">GitHub</a> |
+    <a href="https://www.audits.hcoco1.com/signin">App</a> |
+    <a href="https://www.hcoco1.com/blog/2024-03-13-audits-tool">Blog</a>
+  </p>
   <ul>
-    <li>🗺️ Realicé mapeo GIS y modelado geoestadístico.</li>
-    <li>📈 Mejoré la precisión en la predicción de reservorios de hidrocarburos en un 30%.</li>
-    <li>🤝 Colaboré entre equipos geocientíficos para acelerar entregas en un 10%.</li>
-  </ul>
-</div>
-
----
-
-## 🗓️ <u style="color:#4A90E2;">Educación</u>
-
-<div style="border-left: 3px solid #7ED957; padding-left: 10px;">
-  <strong>Cloud Mastery Bootcamp</strong> – Digital Cloud Training<br>
-  <small><i>Ene 2024 – Nov 2024</i></small>
-  <ul>
-    <li>☁️ Administrador Kubernetes Certificado (CKA)</li>
-    <li>🔧 Infraestructura como Código con Terraform</li>
-    <li>🐍 Automatización DevOps con Python en AWS</li>
-    <li>🧠 Arquitectura de Soluciones en AWS</li>
-    <li>🐧 Fundamentos de la Nube y Linux</li>
+    <li>Aplicación React con backend en Firebase para gestionar datos de auditorías (usuarios, procesos, descripciones).</li>
   </ul>
 
-<strong>Bootcamp de Ciberseguridad</strong> – Fullstack Academy<br> <small><i>Ene 2024 – Jul 2024</i></small>
-
+  <h4 style="margin-bottom: 2px;">Laboratorio Terraform en AWS</h4>
+  <p style="margin: 0;">
+    <a href="https://gitlab.com/hcoco11/terraform-learn">GitLab</a> |
+    <a href="https://youtu.be/SvPrUltymLw">Demo</a>
+  </p>
   <ul>
-    <li>🔴 Red Team: Explotación, Metasploit, escalamiento de privilegios</li>
-    <li>🔵 Blue Team: Endurecimiento, Splunk, análisis forense digital</li>
-    <li>💻 Python para automatización + SysAdmin (Linux/Windows)</li>
+    <li>Automatiza el aprovisionamiento de instancias EC2, instalación de Docker y configuración de NGINX usando Terraform.</li>
   </ul>
 
-<strong>Ingeniería Full Stack</strong> – Flatiron School<br> <small><i>Ene 2023 – Oct 2023</i></small>
+  <hr>
 
+  <h2 style="font-size: 18px; text-align: center">EXPERIENCIA</h2>
+
+  <h4 style="margin-bottom: 2px;">Amazon | Orlando, Fl | Fulfillment Associate |<span style="font-weight: normal;">Nov 2020 - Jun 2025</span></h4>
   <ul>
-    <li>⚙️ Aplicaciones full-stack con Flask, React y SQL</li>
-    <li>📦 Desarrollo de aplicaciones escalables y robustas</li>
+    <li>2,000 paquetes diarios con precisión superior al 90% en múltiples operaciones de almacén (picking, empaque, clasificación) manteniendo métricas de alta productividad (350-1,000 UPH) y realizando auditorías de calidad.</li>
+   
   </ul>
-</div>
 
----
+  <h4 style="margin-bottom: 2px;">Autónomo | Orlando, Fl  | Técnico en mantenimiento |<span style="font-weight: normal;"> Oct  2019 - Nov 2020</span></h4>
+  <ul>
+    <li>Tareas generales ofreciendo un servicio de calidad de manera puntual y cordial.</li>
+  
+  </ul>
 
-> 💬 <em>¿Quieres saber más o colaborar? Contáctame en <a href="https://www.hcoco1.com">[www.hcoco1.com](http://www.hcoco1.com)</a>.</em>
+  <h4 style="margin-bottom: 2px;">PDVSA | Barcelona, Venezuela | Sedimentólogo y Estratígrafo |<span style="font-weight: normal;"> Ene 2005 - Ene 2019</span></h4>
+  <ul>
+    <li>Analisis de rocas sedimentarias, permitiendo predicciones precisas en los modelos de reservorios.</li>
 
----
 
+  </ul>
+ <hr>
 
+  <h2 style="font-size: 18px; text-align: center">EDUCACION</h2>
+
+  <h4 style="margin-bottom: 2px;">Cloud Mastery Bootcamp – Digital Cloud Training <span style="font-weight: normal;">(2024)</span></h4>
+  <ul>
+    <li>Enfoque práctico en AWS, Python DevOps, Terraform, y arquitectura de soluciones en la nube.</li>
+    <li>Preparación para certificaciones: AWS Solutions Architect, CKA, Terraform Associate.</li>
+  </ul>
+
+  <h4 style="margin-bottom: 2px;">Cybersecurity Bootcamp – Fullstack Academy <span style="font-weight: normal;">(2024)</span></h4>
+  <ul>
+    <li>Laboratorios Red Team / Blue Team, hardening, monitoreo, automatización y defensa de sistemas.</li>
+    <li>Herramientas: Wireshark, Metasploit, Nmap, Burp Suite.</li>
+  </ul>
+
+  <h4 style="margin-bottom: 2px;">Full Stack Software Engineering – Flatiron School <span style="font-weight: normal;">(2023)</span></h4>
+  <ul>
+    <li>Desarrollo de aplicaciones web completas con React, Flask, Python y bases de datos SQL.</li>
+    <li>Enfoque en pruebas, autenticación, APIs REST y diseño responsivo.</li>
+  </ul>
+
+  <h4 style="margin-bottom: 2px;">Ingenieria Geologica – UCV <span style="font-weight: normal;">(2004)</span></h4>
+  <ul>
+    <li>El programa es una oferta a tiempo completo de cinco años que incluye cursos tanto de geología como de ingeniería.
+</li>
+
+  </ul>
+ <hr>
+</article>

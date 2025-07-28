@@ -1,96 +1,52 @@
-# hcoco1 - Interview Preparation Hub (In progress)
+### 🌱 **Mi Jardín Digital**
 
-## About
+**🎯 Objetivo:** Construir un espacio personal donde registrar ideas, aprendizajes, reflexiones técnicas y proyectos en evolución.
 
-Welcome to **hcoco1 - Interview Preparation Hub**, your ultimate resource for preparing for technical interviews. This site is dedicated to helping you excel in interviews for software development, full stack development, junior penetration testing, and more.
+---
 
-## Key Features
+### 🧭 **Alcance del Proyecto**
 
-- **Comprehensive Study Guides:** In-depth guides covering various programming languages, frameworks, and tools.
-- **Practice Problems:** A wide range of coding problems to help you sharpen your problem-solving skills.
-- **Resource Library:** Curated list of books, articles, and videos for further learning.
+#### **1. Estructura Inicial** 🗂️ 
 
-## Main Categories
+* Organización por temas: DevOps, Cloud, Ciberseguridad, Programación, Reflexiones.
+* Integración con sistema de notas markdown (Obsidian).
+* Sitio estático, ligero y de carga rápida.
 
-### Programming
+#### **2. Diseño y Accesibilidad** 🎨 
 
-- **Languages**
-  - Python
-  - JavaScript
+* Tema minimalista, lectura cómoda.
+* Modo claro/oscuro.
+* Navegación fluida por etiquetas y fechas.
 
+#### **3. Contenido en Crecimiento** ✍️ 
 
-- **Frameworks and Libraries**
-  - React
-  - Flask
+* Publicación continua de notas públicas.
+* Cada entrada es una semilla: puede crecer, ramificarse o enlazarse.
+* Reflexiones personales sobre libros, cursos, herramientas, errores y descubrimientos.
 
+---
 
-### Tools and Environments
+### ❌ **No incluye**
 
-- Integrated Development Environments (IDEs)
-- Version Control Systems (e.g., Git)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Containerization (e.g., Docker, Kubernetes)
-- Text Editors
+* Blog tradicional o artículos largos con SEO avanzado.
+* Monetización, anuncios o productos.
 
-### Programming Concepts
+---
 
-- Object-Oriented Programming (OOP)
-- Functional Programming
-- Data Structures and Algorithms
-- Design Patterns
-- Concurrent and Parallel Programming
+### 📌 **Principios del Jardín**
 
-### Web Development
+* **Transparencia**: Documentar lo que aprendo, incluso lo que no entiendo (aún).
+* **Iteración**: Todo puede cambiar, mejorar o eliminarse.
+* **Interconexión**: Las ideas se relacionan, como ramas de un árbol.
 
-- Front-End Development
-- Back-End Development
-- Full Stack Development
-- Web APIs
-- Web Security
+---
 
+### 🕰️ **Actualizaciones**
 
+* Este jardín se cultiva de forma **asíncrona y orgánica**.
+* Lo importante no es la frecuencia, sino la constancia.
 
-### DevOps
-
-- Continuous Integration
-- Continuous Deployment
-- Infrastructure as Code (IaC)
-- Monitoring and Logging
-- Cloud Services (e.g., AWS, Azure, Google Cloud)
-
-### Software Testing
-
-- Unit Testing
-- Integration Testing
-- End-to-End Testing
-- Test-Driven Development (TDD)
-- Behavior-Driven Development (BDD)
-
-### Security
-
-- Secure Coding Practices
-- Penetration Testing
-- Cryptography
-- Application Security
-- Network Security
-
-### Other Topics
-
-- Open Source
-- Software Development Lifecycle (SDLC)
-- Agile Methodologies
-- Project Management
-- Career Development in Programming
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Name:** Ivan Arias
-- **Email:** [arias.ivan@hcoco1.com](mailto:arias.ivan@hcoco1.com)
-- **GitHub:** [hcoco1](https://github.com/hcoco1)
-- **Twitter:** [@hcoco1](https://twitter.com/hcoco1)
-
+---
 bundle exec jekyll s
 
 

@@ -2,8 +2,8 @@
 title: Guía para el Cliente 🛒
 author: hcoco1
 date: 2025-05-23 14:10:00 +0800
-categories: [Career]
-tags: [proposal]
+categories: [WordPress, Woocommerce]
+tags: [guia-cliente]
 render_with_liquid: false
 ---
 

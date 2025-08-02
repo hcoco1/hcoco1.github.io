@@ -2,7 +2,7 @@
 title: Propuesta Economica Tienda Online
 author: hcoco1
 date: 2025-05-22 14:10:00 +0800
-categories: [Career]
+categories: [WordPress, Woocommerce]
 tags: [proposal]
 render_with_liquid: false
 ---

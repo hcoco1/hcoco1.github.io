@@ -2,8 +2,8 @@
 title: Resumen DevOps Ivan Arias
 author: hcoco1
 date: 2025-07-20 16:10:00 +0800
-categories: [Career]
-tags: [resume]
+categories: [Career, Resume]
+tags: [resume-dev-ops]
 render_with_liquid: false
 pin: true
 description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube

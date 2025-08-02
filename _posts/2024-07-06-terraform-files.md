@@ -2,7 +2,7 @@
 title: Understanding .tf Files in Terraform
 author: hcoco1
 date: 2024-07-06 14:10:00 +0800
-categories: [Programming, Tools]
+categories: [Programming, Dev Tools]
 tags: [terraform]
 render_with_liquid: false
 ---

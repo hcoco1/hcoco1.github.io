@@ -2,7 +2,7 @@
 title: Overview of Terraform
 author: hcoco1
 date: 2024-08-04 14:10:00 +0800
-categories: [Programming, Tools]
+categories: [Programming, Dev Tools]
 tags: [terraform]
 image: /assets/unsplash(5).jpg
 render_with_liquid: false

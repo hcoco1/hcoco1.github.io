@@ -2,8 +2,8 @@
 title: Ingeniero Ivan Arias
 author: hcoco1
 date: 2025-07-27 16:10:00 +0800
-categories: [Career]
-tags: [resume]
+categories: [Career, Resume]
+tags: [resume-ing]
 render_with_liquid: false
 pin: true
 toc: false

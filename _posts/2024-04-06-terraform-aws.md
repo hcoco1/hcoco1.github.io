@@ -2,7 +2,7 @@
 title: Terraform -- AWS
 author: hcoco1
 date: 2024-04-06 14:10:00 +0800
-categories: [Programming, Tools]
+categories: [Programming, Dev Tools]
 tags: [terraform, aws]
 render_with_liquid: false
 ---

@@ -2,8 +2,8 @@
 title: Resumen General Ivan Arias
 author: hcoco1
 date: 2025-07-20 16:10:00 +0800
-categories: [Career]
-tags: [resume]
+categories: [Career, Resume]
+tags: [resume-spanish]
 render_with_liquid: false
 pin: false
 description: Mozo de Almacén | Logística y Control de Calidad

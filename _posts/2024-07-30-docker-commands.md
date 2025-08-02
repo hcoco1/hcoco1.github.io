@@ -2,7 +2,7 @@
 title: Common Docker Commands Explained
 author: hcoco1
 date: 2024-07-31 14:10:00 +0800
-categories: [Programming, Tools]
+categories: [Programming, Dev Tools]
 tags: [docker]
 render_with_liquid: false
 ---

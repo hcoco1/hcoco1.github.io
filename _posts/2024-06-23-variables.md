@@ -2,8 +2,8 @@
 title: Understanding Variables 
 author: hcoco1
 date: 2024-02-03 14:10:00 +0800
-categories: [Programming, Languages]
-tags: [javascript, python]
+categories: [Programming, Javascript]
+tags: [variables, javascript ]
 render_with_liquid: false
 ---
 

@@ -7,7 +7,8 @@ tags: [resume-ing]
 render_with_liquid: false
 pin: true
 toc: false
-description: Ingeniero Geológico con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack.
+image: /assets/unsplash(10).jpg
+description: Ingeniero Geólogo con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack.
 ---
 
 <article style="font-family: sans-serif; max-width: 800px; margin: auto; padding: 1em; line-height: 1.5;">
@@ -26,7 +27,7 @@ description: Ingeniero Geológico con más de 18 años de experiencia en resoluc
 
   <h2 style="font-size: 18px; text-align: center">SUMARIO PROFESIONAL</h2>
   <p style="text-align: justify;">
-    Ingeniero Geológico con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack. Recientemente formado en AWS, Python, Linux, React, Flask y Terraform mediante bootcamps intensivos. Aplico una mentalidad ingenieril para construir sistemas seguros, escalables y eficientes.
+    Ingeniero Geólogo  con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack. Recientemente formado en AWS, Python, Linux, React, Flask y Terraform mediante bootcamps intensivos. Aplico una mentalidad ingenieril para construir sistemas seguros, escalables y eficientes.
   </p>
 
   <hr>

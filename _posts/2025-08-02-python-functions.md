@@ -2,7 +2,7 @@
 title: Python Functions
 author: hcoco1
 date: 2025-07-31 16:10:00 +0800
-categories: [Programming, Languages]
+categories: [Programming, Python]
 tags: [python, function]
 render_with_liquid: false
 pin: false

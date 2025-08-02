@@ -5,7 +5,7 @@ date: 2025-07-31 16:10:00 +0800
 categories: [Career, Warehouse]
 tags: [carretilla]
 render_with_liquid: false
-pin: true
+pin: false
 image: /assets/unsplash(8).jpg
 description: Resumen Manual de Carretillas Elevadoras Automotoras
 ---

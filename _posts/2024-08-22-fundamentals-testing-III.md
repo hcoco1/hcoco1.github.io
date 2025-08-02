@@ -3,7 +3,7 @@ title: "Software Testing: Test Activities, Testware, and Test Roles"
 author: hcoco1
 date: 2024-08-22 14:10:00 +0800
 categories: [ISTQB, Chapter-1]
-tags: [software-testing]
+tags: [software-testing-3]
 # image: /assets/unsplash (2).jpg
 render_with_liquid: true
 ---

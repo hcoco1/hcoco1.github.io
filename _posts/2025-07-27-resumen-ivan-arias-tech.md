@@ -5,7 +5,7 @@ date: 2025-07-20 16:10:00 +0800
 categories: [Career, Resume]
 tags: [resume-dev-ops]
 render_with_liquid: false
-pin: true
+pin: false
 description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube
 ---
 
@@ -40,27 +40,27 @@ description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Cibersegurid
 
 ### 🔐 Hacking Mr. Robot
 
-[GitHub](https://github.com/hcoco1/Career-Simulation-4) | [Informe en Vivo](https://hcoco1.github.io/Career-Simulation-4/) | [Demo](https://youtu.be/6JSVCGe07eE)
+[GitHub](https://github.com/hcoco1/Career-Simulation-4) | [Informe](https://hcoco1.github.io/Career-Simulation-4/) | [Demo](https://youtu.be/6JSVCGe07eE)
 
 * Metodología de hacking ético dirigida a un sitio WordPress vulnerable (VM de Mr. Robot).
 * Herramientas usadas: Nmap, Gobuster, Nikto, Python, Hydra, Metasploit
 
 ### 📊 Panel de Rendimiento Estudiantil
 
-[GitHub](https://github.com/hcoco1/hcoco1-dashboard) | [App en Vivo](https://hcoco1.pythonanywhere.com) | [Demo](https://youtu.be/Iw42U5wybu8) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard)
+[GitHub](https://github.com/hcoco1/hcoco1-dashboard) | [App](https://hcoco1.pythonanywhere.com) | [Demo](https://youtu.be/Iw42U5wybu8) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard)
 *(Usuario: hcoco1, Contraseña: pythonpython)*
 
 * Panel interactivo para visualizar calificaciones estudiantiles usando Flask, Dash, Plotly y Bootstrap.
 
 ### 🔎 Evaluación Técnica en Python
 
-[GitHub](https://github.com/hcoco1/Python-Assessment) | [Informe en Vivo](https://hcoco1.github.io/Python-Assessment/)
+[GitHub](https://github.com/hcoco1/Python-Assessment) | [Informe](https://hcoco1.github.io/Python-Assessment/)
 
 * Análisis de logs de Apache con expresiones regulares para extraer patrones útiles.
 
 ### ✅ Herramienta de Auditorías
 
-[GitHub](https://github.com/hcoco1/todo-list-local-storage) | [App en Vivo](https://www.audits.hcoco1.com/signin) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool)
+[GitHub](https://github.com/hcoco1/todo-list-local-storage) | [App](https://www.audits.hcoco1.com/signin) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool)
 
 * Aplicación React con backend en Firebase para gestionar datos de auditorías (usuarios, procesos, descripciones).
 

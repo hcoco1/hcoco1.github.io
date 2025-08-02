@@ -3,7 +3,7 @@ title: "Software Testing: Essential Skills and Good Practices in Testing"
 author: hcoco1
 date: 2024-08-23 14:10:00 +0800
 categories: [ISTQB, Chapter-1]
-tags: [software-testing]
+tags: [software-testing-4]
 # image: /assets/unsplash (2).jpg
 render_with_liquid: true
 ---

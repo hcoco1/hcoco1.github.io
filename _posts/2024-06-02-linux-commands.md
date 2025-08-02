@@ -2,8 +2,8 @@
 title: Common Linux Commands
 author: hcoco1
 date: 2024-02-03 14:10:00 +0800
-categories: [Linux, CLI]
-tags: [bash]
+categories: [Programming, Linux]
+tags: [bash, cli, linux]
 render_with_liquid: false
 ---
 

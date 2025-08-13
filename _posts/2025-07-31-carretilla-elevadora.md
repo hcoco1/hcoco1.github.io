@@ -2,7 +2,7 @@
 title: Carretillas Elevadoras
 author: hcoco1
 date: 2025-07-31 16:10:00 +0800
-categories: [Career, Warehouse]
+categories: [Career, ETT]
 tags: [carretilla]
 render_with_liquid: false
 pin: false

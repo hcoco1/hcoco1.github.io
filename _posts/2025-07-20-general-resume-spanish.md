@@ -14,6 +14,18 @@ Profesional orientado al detalle con experiencia en logística, auditoría y pro
 
 ---
 
+### 🤖 **CERTIFICACIONES**
+
+* Logística y Seguridad: Bonapi – Spijkenisse, Países Bajos. Emitido: 4 de octubre de 2025 · Válido hasta: 4 de octubre de 2030.
+
+    - Veilig werken met Heftruck (Seguridad en el uso de carretillas elevadoras) – Cert. Nº 1052025342.
+
+    - Veilig werken met Reachtruck (Seguridad en el uso de reachtruck) – Cert. Nº 1052025343.
+
+    - Veilig werken met Elektrische Pallet Truck (Seguridad en el uso de transpaletas eléctricas) – Cert. Nº 1052025344.
+
+
+
 ### 🧰 **HABILIDADES DESTACADAS**
 
 |                                       |                            |
@@ -25,6 +37,14 @@ Profesional orientado al detalle con experiencia en logística, auditoría y pro
 ---
 
 ### 🧾 **EXPERIENCIA PROFESIONAL**
+
+
+#### **Mozo de Almacén |  Hobij en CEVA Logistics | Waalwijk ,  Paises Bajos**
+
+*Ago 2025 – Presente*
+
+
+* Receiver: Verificación, documentación y preparación de mercancías para almacenamiento.
 
 #### **Mozo de Almacén | Amazon | Orlando, FL**
 

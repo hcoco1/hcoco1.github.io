@@ -7,7 +7,7 @@ description: "A structured 4-day lifting week built around heavy compound moveme
 image:
   path: https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&q=80
   alt: Weekly Training Routine Overview
-pin: false
+pin: True
 ---
 
 > **Philosophy:** Train hard where it counts, recover where it matters. Four lifting days, structured around your energy curve throughout the week.

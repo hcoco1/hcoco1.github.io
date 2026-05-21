@@ -5,7 +5,7 @@ date: 2025-07-27 16:10:00 +0800
 categories: [Career, Resume]
 tags: [resume-ing]
 render_with_liquid: false
-pin: true
+pin: false
 toc: false
 image: /assets/unsplash(10).jpg
 description: Ingeniero Geólogo con más de 18 años de experiencia en resolución de problemas, actualmente en transición hacia desarrollo cloud y full-stack.

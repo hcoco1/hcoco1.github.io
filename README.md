@@ -47,7 +47,10 @@
 * Lo importante no es la frecuencia, sino la constancia.
 
 ---
+
 bundle exec jekyll s
+
+bundle exec jekyll serve --host 0.0.0.0 --port 4000
 
 
 

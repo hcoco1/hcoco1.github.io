@@ -1,102 +1,113 @@
 ---
-title: Resumen DevOps Ivan Arias
+title: Resumen Ivan Arias — GIS Developer & Full-Stack Engineer
 author: hcoco1
-date: 2025-07-20 16:10:00 +0800
+date: 2026-05-21 16:10:00 +0200
 categories: [Career, Resume]
-tags: [resume-dev-ops]
+tags: [resume, gis, full-stack, web-gis, python, leaflet]
 render_with_liquid: false
 pin: false
-description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Ciberseguridad y la Nube
+description: 🗺️ GIS Developer & Full-Stack Engineer | Web GIS · Python · AWS · Leaflet
 ---
 
+> Soy Iván Arias, ingeniero geólogo con más de 14 años de experiencia en geociencias y análisis geoespacial, ahora enfocado en construir aplicaciones **Web GIS** en producción. Combino conocimiento profundo de datos espaciales y subsuelo con habilidades modernas de desarrollo full-stack y la nube.
 
-> Soy Iván Arias, ex ingeniero geológico convertido en profesional IT, ahora enfocado en DevOps, cloud y automatización. Mi experiencia combina más de 10 años de trabajo analítico bajo presión con formación reciente en desarrollo web, ciberseguridad e infraestructura en la nube.
+> 🗺️ **Stack principal:** Leaflet, ArcGIS, Python, React, Flask, AWS, Astro, TypeScript, SQL.
 
-> 🔧 Habilidades: Terraform, AWS, Docker, Python, Linux, GitHub Actions, React, Flask
-
-> Busco roles junior en DevOps, Cloud o Soporte IT donde pueda crecer, automatizar sistemas y contribuir a entornos seguros y escalables.
+> Disponible para roles de **GIS Developer**, **Full-Stack Engineer** y posiciones híbridas geoespacial/web desde Zaragoza, España.
 
 ---
 
-✉️ [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/hcoco1/) | [GitHub](https://github.com/hcoco1) | [Portafolio](https://www.hcoco1.com)
+📍 Zaragoza, España
+✉️ [arias.ivan@hcoco1.com](mailto:arias.ivan@hcoco1.com)
+[LinkedIn](https://www.linkedin.com/in/hcoco1/) | [GitHub](https://github.com/hcoco1) | [Portafolio](https://www.hcoco1.com) | [Digital Garden](https://www.notes.hcoco1.com/)
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
-* **Herramientas de Seguridad:** Metasploit, Burp Suite
-* **Frameworks:** React, Flask
-* **Redes:** Ubuntu
-* **Herramientas de Desarrollo:** SQLAlchemy, Bootstrap
-* **Sistemas Operativos:** Linux, Windows
-* **Herramientas Cloud:** Boto3, CDK, CloudFormation, Firebase
-* **Lenguajes de Programación:** Python, JavaScript, SQL
-* **IaC y Contenedores:** Terraform y Docker
+* **Web GIS:** Leaflet, ArcGIS, GeoJSON, QGIS
+* **Lenguajes:** Python, JavaScript, TypeScript, SQL
+* **Web & Cloud:** React, Flask, Astro, AWS, Terraform
+* **Datos & Herramientas:** SQLAlchemy, Plotly, Git, Linux
+* **Dominio:** Petrel, OpenWorks, interpretación sísmica, modelado de subsuelo
 
 ---
 
-## 💻 Proyectos Técnicos
+## 💻 Proyectos Destacados
 
-### 🔐 Hacking Mr. Robot
+### 🛢️ Oil & Gas GIS Web App
 
-[GitHub](https://github.com/hcoco1/Career-Simulation-4) | [Informe](https://hcoco1.github.io/Career-Simulation-4/) | [Demo](https://youtu.be/6JSVCGe07eE)
+[App](https://maps.hcoco1.com/) | Web GIS · React + Flask + GeoJSON
 
-* Metodología de hacking ético dirigida a un sitio WordPress vulnerable (VM de Mr. Robot).
-* Herramientas usadas: Nmap, Gobuster, Nikto, Python, Hydra, Metasploit
+* Consultas espaciales interactivas sobre pozos, oleoductos y licencias.
+* Integra capas geoespaciales con backend Flask y frontend React.
 
-### 📊 Panel de Rendimiento Estudiantil
+### 🗺️ Leaflet Vanilla JS Web Map
 
-[GitHub](https://github.com/hcoco1/hcoco1-dashboard) | [App](https://hcoco1.pythonanywhere.com) | [Demo](https://youtu.be/Iw42U5wybu8) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard)
-*(Usuario: hcoco1, Contraseña: pythonpython)*
+[App](https://gis.hcoco1.com) | Web GIS · JavaScript puro
 
-* Panel interactivo para visualizar calificaciones estudiantiles usando Flask, Dash, Plotly y Bootstrap.
+* Mapa web ligero construido con Leaflet sin frameworks, desplegado en producción.
+* Demuestra fundamentos de mapping y rendimiento en producción.
 
-### 🔎 Evaluación Técnica en Python
+### 📊 Student Performance Dashboard
 
-[GitHub](https://github.com/hcoco1/Python-Assessment) | [Informe](https://hcoco1.github.io/Python-Assessment/)
+[App](https://www.dashboard.hcoco1.com/) | [Blog](https://www.hcoco1.com/blog/2024-05-29-dashboard) | Python · Flask · Dash · Plotly
 
-* Análisis de logs de Apache con expresiones regulares para extraer patrones útiles.
+* Panel interactivo para visualizar calificaciones y tendencias estudiantiles.
 
-### ✅ Herramienta de Auditorías
+### ✅ Audits Tool
 
-[GitHub](https://github.com/hcoco1/todo-list-local-storage) | [App](https://www.audits.hcoco1.com/signin) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool)
+[App](https://www.audits.hcoco1.com/) | [Blog](https://www.hcoco1.com/blog/2024-03-13-audits-tool) | React · Firebase
 
-* Aplicación React con backend en Firebase para gestionar datos de auditorías (usuarios, procesos, descripciones).
+* Aplicación para gestión de datos de auditorías con reportes y exportación.
 
-### ☁️ Laboratorio Terraform en AWS
+### 🛒 E-Commerce Platform
 
-[GitLab](https://gitlab.com/hcoco11/terraform-learn) | [Demo](https://youtu.be/SvPrUltymLw)
+[App](https://phase5-app-tyia.onrender.com/) | React · Flask · Full-Stack
 
-* Automatiza el aprovisionamiento de instancias EC2, instalación de Docker y configuración de NGINX usando Terraform.
+* SPA con autenticación, carrito y gestión completa de productos.
+
+### 🗄️ Database Tool CLI
+
+[Demo](https://youtu.be/UrotTLXdx5c) | Python · SQLAlchemy · SQLite3 · Click
+
+* CLI para gestionar datos de entidades geográficas de EE. UU.
 
 ---
 
 ## 🗓️ <u style="color:#4A90E2;">Experiencia</u>
 
 <div style="border-left: 3px solid #4A90E2; padding-left: 10px; margin-bottom: 20px;">
-  <strong>Fulfillment Associate</strong> – Amazon | <em>Orlando, FL</em><br>
-  <small><i>Nov 2020 – Jun 2025</i></small>
+  <strong>GIS Developer / Full-Stack Engineer</strong> – Freelance | <em>Zaragoza, España</em><br>
+  <small><i>2025 – Presente</i></small>
   <ul>
-    <li>✅ Establecí protocolos de seguridad que redujeron accidentes laborales.</li>
-    <li>📦 Escaneé, inspeccioné y clasifiqué más de 2,000 paquetes diarios con una precisión superior al 90%.</li>
-    <li>🗞️ Realicé auditorías ICQA y formé a asociados sobre procedimientos estándar.</li>
+    <li>🛢️ Construí <a href="https://maps.hcoco1.com/">Oil &amp; Gas GIS Web App</a> — consultas espaciales interactivas sobre pozos, oleoductos y licencias.</li>
+    <li>🗺️ Construí <a href="https://gis.hcoco1.com">Leaflet Vanilla JS Web Map</a> — mapping ligero sin frameworks, desplegado en producción.</li>
+    <li>🌱 Mantengo portafolio personal, digital garden y múltiples aplicaciones en producción.</li>
   </ul>
 
-<strong>Jardinero</strong> – Autónomo | <em>Orlando, FL</em><br> <small><i>Oct 2019 – Nov 2020</i></small>
-
+  <strong>Sortation Associate</strong> – Amazon | <em>Orlando, FL</em><br>
+  <small><i>2020 – 2025</i></small>
   <ul>
-    <li>🌿 Atendí a más de 20 clientes con un 100% de satisfacción.</li>
-    <li>⏱️ Entregué proyectos un 15% más rápido que el promedio.</li>
-    <li>🔧 Mantuve herramientas y operaciones para garantizar calidad constante.</li>
+    <li>📦 Procesé más de 2,000 paquetes diarios con precisión de escaneo superior al 99%.</li>
+    <li>🎓 Completé Amazon Career Choice — obtuve GED y certificado de inglés trabajando a tiempo completo.</li>
+    <li>🚀 Transición autodirigida a ingeniería de software: Flatiron School (2023), Cybersecurity Bootcamp (2024) y Cloud Mastery Bootcamp (2024) en paralelo.</li>
   </ul>
 
-<strong>Sedimentólogo y Estratígrafo</strong> – PDVSA | <em>Venezuela</em><br> <small><i>Jan 2005 – Jan 2019</i></small>
-
+  <strong>Trabajador Independiente</strong> – Autónomo | <em>Orlando, FL</em><br>
+  <small><i>2019 – 2020</i></small>
   <ul>
-    <li>🗺️ Realicé mapeo GIS y modelado geoestadístico.</li>
-    <li>📈 Mejoré la precisión en la predicción de reservorios de hidrocarburos en un 30%.</li>
-    <li>🤝 Colaboré entre equipos geocientíficos para acelerar entregas en un 10%.</li>
+    <li>🤝 Atendí a más de 20 clientes gestionando agenda, alcance y entrega.</li>
+    <li>⏱️ Reduje el tiempo de entrega en un 15% optimizando flujos de trabajo.</li>
+  </ul>
+
+  <strong>Geology Technician / GIS Analyst</strong> – PDVSA | <em>Venezuela</em><br>
+  <small><i>2005 – 2019</i></small>
+  <ul>
+    <li>🛰️ 14 años de interpretación sísmica, modelado de subsuelo y análisis espacial con ArcGIS, Petrel y OpenWorks.</li>
+    <li>🧪 Integré registros de pozos, datos de núcleo y estudios sísmicos para construir modelos de caracterización de reservorios.</li>
+    <li>🗺️ Construí bases de datos espaciales y mapas geológicos usados por equipos de ingeniería.</li>
+    <li>📈 Mejoré la precisión en la predicción de reservorios un 30% mediante flujos GIS avanzados e integración interdisciplinar.</li>
   </ul>
 </div>
 
@@ -106,35 +117,39 @@ description: 🧠 Ingeniero DevOps en formación | Entusiasta de la Cibersegurid
 
 <div style="border-left: 3px solid #7ED957; padding-left: 10px;">
   <strong>Cloud Mastery Bootcamp</strong> – Digital Cloud Training<br>
-  <small><i>Ene 2024 – Nov 2024</i></small>
+  <small><i>2024</i></small>
   <ul>
-    <li>☁️ Administrador Kubernetes Certificado (CKA)</li>
-    <li>🔧 Infraestructura como Código con Terraform</li>
-    <li>🐍 Automatización DevOps con Python en AWS</li>
-    <li>🧠 Arquitectura de Soluciones en AWS</li>
-    <li>🐧 Fundamentos de la Nube y Linux</li>
+    <li>☁️ Arquitectura de soluciones AWS</li>
+    <li>🔧 Infraestructura como código con Terraform</li>
+    <li>🐍 Automatización con Python en AWS</li>
   </ul>
 
-<strong>Bootcamp de Ciberseguridad</strong> – Fullstack Academy<br> <small><i>Ene 2024 – Jul 2024</i></small>
-
+  <strong>Cybersecurity Bootcamp</strong> – Fullstack Academy<br>
+  <small><i>2024</i></small>
   <ul>
-    <li>🔴 Red Team: Explotación, Metasploit, escalamiento de privilegios</li>
-    <li>🔵 Blue Team: Endurecimiento, Splunk, análisis forense digital</li>
-    <li>💻 Python para automatización + SysAdmin (Linux/Windows)</li>
+    <li>🐧 Linux · Pentesting · Análisis de riesgos</li>
   </ul>
 
-<strong>Ingeniería Full Stack</strong> – Flatiron School<br> <small><i>Ene 2023 – Oct 2023</i></small>
-
+  <strong>Full Stack Engineering</strong> – Flatiron School<br>
+  <small><i>2023</i></small>
   <ul>
-    <li>⚙️ Aplicaciones full-stack con Flask, React y SQL</li>
-    <li>📦 Desarrollo de aplicaciones escalables y robustas</li>
+    <li>⚙️ Aplicaciones full-stack con React, Flask, SQL y Python</li>
+  </ul>
+
+  <strong>Ingeniería Geológica</strong> – Universidad Central de Venezuela<br>
+  <ul>
+    <li>🪨 GIS · Modelado de subsuelo</li>
   </ul>
 </div>
 
 ---
 
-> 💬 <em>¿Quieres saber más o colaborar? Contáctame en <a href="https://www.hcoco1.com">[www.hcoco1.com](http://www.hcoco1.com)</a>.</em>
+## 🌐 Idiomas
+
+* **Español** — Nativo
+* **Inglés** — Profesional
+* **Francés** — Básico
 
 ---
 
-
+> 💬 <em>¿Quieres saber más o colaborar? Contáctame en <a href="https://www.hcoco1.com">www.hcoco1.com</a>.</em>

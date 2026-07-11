@@ -1,10 +1,11 @@
 ---
 title: GIS Fundamentals — A Pre-Course Primer for QGIS
-author: <author_id>
+author: hcoco1
 date: 2026-07-11 10:00:00 +0200
 categories: [GIS, Tutorial]
 tags: [qgis, gis, projections, crs, spatial-data]
 render_with_liquid: false
+pin: true
 ---
 
 This guide covers the concepts you need before starting the QGIS course: the spatial data model, storage formats, and coordinate reference systems (CRS). CRS and projections are the main source of confusion for new users, so most of the guide is spent there. No software steps are included; the course covers those.

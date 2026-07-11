@@ -6,7 +6,7 @@ date: 2026-06-10 16:10:00 +0200
 categories: [Career, GIS]
 tags: [web-gis, react, fastapi, postgis, python, ai, learning-plan]
 render_with_liquid: false
-pin: true
+pin: false
 description: A practical learning plan to become a Web GIS Developer with React, FastAPI, PostGIS, Python GIS, and applied AI.
 ---
 

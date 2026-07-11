@@ -7,7 +7,7 @@ description: "A 4-day Upper/Lower week built around getting stronger at pull-ups
 image:
   path: https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&q=80
   alt: Weekly Training Routine Overview
-pin: True
+pin: false
 ---
 
 ## Why Upper / Lower

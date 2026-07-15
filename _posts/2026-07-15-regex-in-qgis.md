@@ -2,7 +2,7 @@
 title: Regex in QGIS — A Practical Reference
 author: <author_id>
 date: 2026-07-15 10:00:00 +0200
-categories: [GIS, Tutorial]
+categories: [QGIS, Tutorial]
 tags: [qgis, regex, expressions, field-calculator, data-cleaning]
 description: Where regex works in QGIS, the four expression functions, and worked examples for cleaning, extracting, selecting, and labeling.
 toc: true

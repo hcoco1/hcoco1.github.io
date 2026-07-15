@@ -2,7 +2,7 @@
 title: Mental Model for WEBGIS (WEBGIS)
 author: hcoco1
 date: 2026-04-08 17:10:00 +0800
-categories: [Programming, Leaflet]
+categories: [GIS, Leaflet]
 tags: [quiz]
 render_with_liquid: false
 pin: false

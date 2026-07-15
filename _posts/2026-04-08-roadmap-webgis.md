@@ -2,7 +2,7 @@
 title: A Realistic Weekly Roadmap (WEBGIS)
 author: hcoco1
 date: 2026-04-08 16:10:00 +0800
-categories: [Programming, Leaflet]
+categories: [GIS, Leaflet]
 tags: [roadmap]
 render_with_liquid: false
 pin: false

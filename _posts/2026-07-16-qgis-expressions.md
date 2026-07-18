@@ -5,9 +5,14 @@ date: 2026-07-18 14:10:00 +0200
 categories: [GIS, QGIS]
 tags: [qgis, expressions, filtering, labels]
 description: A practical guide to QGIS expressions — filtering, labeling, styling, field calculation, and selection — with copy-ready examples.
+toc: true
+pin: true
+render_with_liquid: false
 ---
 
 Expressions are formulas evaluated once per feature that return a value. QGIS uses them in filtering, labeling, symbology, the field calculator, and selection. The same syntax works everywhere the expression builder appears, so learning it once pays off across the whole application.
+
+This guide is written for **QGIS 3.44 LTR (Solothurn)**. The expression syntax is identical in QGIS 4.x, so it applies there too.
 
 ## Quoting rules (read this first)
 
@@ -210,10 +215,10 @@ Add thousands separators:
 "name" || ': ' || format_number("population", 0)
 ```
 
-Force a line break inside a label:
+Force a line break inside a label. `char(10)` inserts the line-feed character the labeling engine splits on:
 
 ```
-"name" || '\n' || "country"
+"name" || char(10) || "country"
 ```
 
 Wrap long text automatically at a character count:
@@ -232,6 +237,9 @@ lower("email")  -- lowercase
 
 > `||` returns NULL if any part is NULL, blanking the entire label. Use `concat()` when a field may be empty.
 {: .prompt-tip }
+
+> Do not use `char(13)` (carriage return) for line breaks. It can render as a visible box. Only `char(10)` is needed.
+{: .prompt-warning }
 
 ## Find and replace with REPLACE and ARRAY
 

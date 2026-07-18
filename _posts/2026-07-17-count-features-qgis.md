@@ -1,12 +1,9 @@
 ---
 title: How to Count Features by Attribute in QGIS (4 Methods)
-date: 2026-07-18 22:30:00 +0000
+date: 2026-07-17 22:30:00 +0000
 categories: [QGIS, Tutorial]
 tags: [qgis, sql, aggregate, statistics, gis]
 description: Four methods to count the total number of airports and summarize them by country in QGIS.
-toc: true
-pin: true
-render_with_liquid: false
 ---
 
 This tutorial presents four different approaches to count airports in QGIS. The examples use the **OurAirports** dataset, where each feature represents a single airport.

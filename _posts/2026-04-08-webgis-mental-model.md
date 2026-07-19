@@ -6,7 +6,10 @@ categories: [GIS, Leaflet]
 tags: [quiz]
 render_with_liquid: false
 pin: false
-description: Answer this in your own words..
+description: Answer this in your own words.
+image:
+  path: https://thumbs.dreamstime.com/b/gis-geographic-information-system-geospatial-technology-urban-planning-spatial-analysis-digital-map-interface-smart-city-438034315.jpg?w=768
+  alt: QGIS 
 
 ---
 

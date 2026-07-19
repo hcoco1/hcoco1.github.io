@@ -8,6 +8,10 @@ tags: [web-gis, react, fastapi, postgis, python, ai, learning-plan]
 render_with_liquid: false
 pin: false
 description: A practical learning plan to become a Web GIS Developer with React, FastAPI, PostGIS, Python GIS, and applied AI.
+image:
+  path: https://thumbs.dreamstime.com/b/gis-geographic-information-system-geospatial-technology-urban-planning-spatial-analysis-digital-map-interface-smart-city-438034315.jpg?w=768
+  alt: QGIS 
+
 ---
 
 ## Web GIS Developer Learning Plan

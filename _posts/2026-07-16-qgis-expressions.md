@@ -6,8 +6,11 @@ categories: [GIS, QGIS]
 tags: [qgis, expressions, filtering, labels]
 description: A practical guide to QGIS expressions — filtering, labeling, styling, field calculation, and selection — with copy-ready examples.
 toc: true
-pin: true
+pin: false
 render_with_liquid: false
+image:
+  path: https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png
+  alt: QGIS 
 ---
 
 Expressions are formulas evaluated once per feature that return a value. QGIS uses them in filtering, labeling, symbology, the field calculator, and selection. The same syntax works everywhere the expression builder appears, so learning it once pays off across the whole application.

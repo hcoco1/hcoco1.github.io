@@ -5,6 +5,9 @@ date: 2026-07-15 10:00:00 +0200
 categories: [QGIS, Expressions]
 tags: [qgis, expressions, regex, regexp_match]
 description: Learn how the QGIS `regexp_match()` function works, how to interpret its return value, and how to use it to filter features with practical examples.
+image:
+  path: https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png
+  alt: QGIS 
 ---
 
 

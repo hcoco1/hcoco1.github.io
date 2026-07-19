@@ -7,6 +7,9 @@ tags: [qgis, regex, expressions, field-calculator, data-cleaning]
 description: Where regex works in QGIS, the four expression functions, and worked examples for cleaning, extracting, selecting, and labeling.
 toc: true
 pin: false
+image:
+  path: https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png
+  alt: QGIS 
 ---
 
 Regex (regular expressions) is a pattern language for matching and manipulating text. In QGIS it is the fastest way to clean attributes, validate IDs, extract values from messy fields, and build label/filter rules. This post covers where regex works in QGIS, the syntax, and worked examples per task.

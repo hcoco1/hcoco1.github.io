@@ -4,6 +4,9 @@ date: 2026-07-17 22:30:00 +0000
 categories: [QGIS, Tutorial]
 tags: [qgis, sql, aggregate, statistics, gis]
 description: Four methods to count the total number of airports and summarize them by country in QGIS.
+image:
+  path: https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png
+  alt: QGIS 
 ---
 
 This tutorial presents four different approaches to count airports in QGIS. The examples use the **OurAirports** dataset, where each feature represents a single airport.

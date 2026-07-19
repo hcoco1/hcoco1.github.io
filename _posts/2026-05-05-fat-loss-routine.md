@@ -1,8 +1,8 @@
 ---
 title: "My Optimal Weekly Training Routine (Upper / Lower)"
 date: 2026-05-21 08:00:00 +0100
-categories: [Fitness, Training]
-tags: [upper lower split, strength training, weighted dips, pull-ups, squat, weekly structure, hypertrophy]
+categories: [Workouts, Routine]
+tags: [gym]
 description: "A 4-day Upper/Lower week built around getting stronger at pull-ups and dips, with every muscle trained twice a week."
 image:
   path: https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&q=80

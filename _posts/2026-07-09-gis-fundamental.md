@@ -6,6 +6,9 @@ categories: [GIS, Tutorial]
 tags: [qgis, gis, projections, crs, spatial-data]
 render_with_liquid: false
 pin: true
+image:
+  path: https://thumbs.dreamstime.com/b/gis-geographic-information-system-geospatial-technology-urban-planning-spatial-analysis-digital-map-interface-smart-city-438034315.jpg?w=768
+  alt: QGIS 
 ---
 
 This guide covers the concepts you need before starting the QGIS course: the spatial data model, storage formats, and coordinate reference systems (CRS). CRS and projections are the main source of confusion for new users, so most of the guide is spent there. No software steps are included; the course covers those.

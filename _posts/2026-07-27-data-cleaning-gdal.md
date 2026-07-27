@@ -1,8 +1,11 @@
 ---
-title: "SQL Data Cleaning for GIS — A Beginner's Guide for GDAL + PostgreSQL/PostGIS + QGIS"
+title: "SQL Data Cleaning for GIS"
 date: 2026-07-27 10:00:00 +0200
 categories: [GIS, SQL]
 tags: [postgis, postgresql, gdal, qgis, sql, etl]
+description: A Beginner's Guide for GDAL + PostgreSQL/PostGIS + QGIS
+toc: true
+render_with_liquid: false
 
 ---
 

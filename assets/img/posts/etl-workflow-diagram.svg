@@ -1,0 +1,60 @@
+<svg viewBox="0 0 640 628" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="etlTitle etlDesc">
+  <title id="etlTitle">ETL workflow diagram</title>
+  <desc id="etlDesc">Flow diagram: survey.csv is inspected and loaded by GDAL into a PostGIS staging table; SQL in PostGIS cleans it and builds geometry into a clean table; QGIS connects to PostGIS to load, style, and inspect the result, producing a map or analysis.</desc>
+
+  <defs>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+    </marker>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#0f172a" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- card background -->
+  <rect x="1" y="1" width="638" height="626" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- connector lines (drawn first so badges appear to sit on top of them) -->
+  <line x1="320" y1="84"  x2="320" y2="232" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  <line x1="320" y1="296" x2="320" y2="388" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  <line x1="320" y1="452" x2="320" y2="544" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+
+  <!-- Box 1: survey.csv -->
+  <rect x="80" y="20" width="480" height="64" rx="12" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" filter="url(#softShadow)"/>
+  <text x="320" y="46" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18" font-weight="700" fill="#0f172a">survey.csv</text>
+  <text x="320" y="66" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">(raw, dirty, all text)</text>
+
+  <!-- Badge 1a: ogrinfo -->
+  <rect x="100" y="100" width="440" height="54" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="320" y="119" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13.5" font-weight="700" fill="#1d4ed8">ogrinfo</text>
+  <text x="320" y="137" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#475569">inspect structure and row count</text>
+
+  <!-- Badge 1b: ogr2ogr -->
+  <rect x="100" y="162" width="440" height="54" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="320" y="181" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13.5" font-weight="700" fill="#1d4ed8">ogr2ogr</text>
+  <text x="320" y="199" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#475569">load into PostGIS as a staging table</text>
+
+  <!-- Box 2: survey_staging -->
+  <rect x="80" y="232" width="480" height="64" rx="12" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" filter="url(#softShadow)"/>
+  <text x="320" y="258" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18" font-weight="700" fill="#0f172a">survey_staging</text>
+  <text x="320" y="278" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">(raw copy inside PostGIS, still text)</text>
+
+  <!-- Badge 2: SQL in PostGIS -->
+  <rect x="100" y="316" width="440" height="54" rx="10" fill="#ffffff" stroke="#8b5cf6" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="320" y="335" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#7c3aed">SQL in PostGIS</text>
+  <text x="320" y="353" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#475569">trim, recode, cast, NULL-handling, build geometry</text>
+
+  <!-- Box 3: survey_clean -->
+  <rect x="80" y="388" width="480" height="64" rx="12" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2" filter="url(#softShadow)"/>
+  <text x="320" y="414" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18" font-weight="700" fill="#0f172a">survey_clean</text>
+  <text x="320" y="434" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">(typed, validated, has geometry + spatial index)</text>
+
+  <!-- Badge 3: QGIS -->
+  <rect x="100" y="472" width="440" height="54" rx="10" fill="#ffffff" stroke="#22c55e" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="320" y="491" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#16a34a">QGIS</text>
+  <text x="320" y="509" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#475569">connect to PostGIS, load, style, inspect</text>
+
+  <!-- Box 4: Map / analysis -->
+  <rect x="80" y="544" width="480" height="64" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="2" filter="url(#softShadow)"/>
+  <text x="320" y="583" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#0f172a">Map / analysis</text>
+</svg>

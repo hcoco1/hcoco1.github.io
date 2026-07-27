@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 452" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="720" height="452" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- L0 server instance -->
+  <rect x="20" y="20" width="680" height="412" rx="9" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="38" y="44" font-size="15" font-weight="700" fill="#312e81">PostgreSQL server instance</text>
+  <text x="682" y="44" font-size="12" fill="#6366f1" text-anchor="end">the running process</text>
+
+  <!-- L1 cluster -->
+  <rect x="44" y="58" width="632" height="352" rx="8" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.3"/>
+  <text x="62" y="81" font-size="14" font-weight="700" fill="#312e81">Database cluster</text>
+  <text x="658" y="81" font-size="12" fill="#6366f1" text-anchor="end">one per instance (initdb)</text>
+
+  <!-- L2 database -->
+  <rect x="68" y="95" width="584" height="298" rx="7" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.3"/>
+  <text x="86" y="118" font-size="14" font-weight="700" fill="#1e3a8a">Database  (e.g. workshop)</text>
+  <text x="634" y="118" font-size="12" fill="#3b82f6" text-anchor="end">one or more</text>
+
+  <!-- L3 schema -->
+  <rect x="92" y="132" width="536" height="244" rx="7" fill="#cffafe" stroke="#0891b2" stroke-width="1.3"/>
+  <text x="110" y="155" font-size="14" font-weight="700" fill="#155e75">Schema  (e.g. public)</text>
+  <text x="610" y="155" font-size="12" fill="#0891b2" text-anchor="end">groups related objects</text>
+
+  <!-- L4 table / view -->
+  <rect x="116" y="169" width="488" height="190" rx="7" fill="#d1fae5" stroke="#059669" stroke-width="1.3"/>
+  <text x="134" y="192" font-size="14" font-weight="700" fill="#065f46">Table / View  (e.g. admin1)</text>
+  <text x="586" y="192" font-size="12" fill="#059669" text-anchor="end">defines columns</text>
+
+  <!-- L5 records -->
+  <rect x="140" y="206" width="440" height="136" rx="7" fill="#fef3c7" stroke="#d97706" stroke-width="1.3"/>
+  <text x="158" y="229" font-size="14" font-weight="700" fill="#92400e">Records (rows)</text>
+
+  <rect x="158" y="244" width="404" height="26" rx="4" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+  <text x="170" y="261" font-size="12" fill="#78350f">New Jersey &#8226; POLYGON &#8226; pop&#8230; &#8226; shape&#8230;</text>
+  <rect x="158" y="276" width="404" height="26" rx="4" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+  <text x="170" y="293" font-size="12" fill="#78350f">Pennsylvania &#8226; POLYGON &#8226; pop&#8230; &#8226; shape&#8230;</text>
+  <rect x="158" y="308" width="404" height="26" rx="4" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+  <text x="170" y="325" font-size="12" fill="#78350f">New York &#8226; MULTIPOLYGON &#8226; pop&#8230; &#8226; shape&#8230;</text>
+</svg>

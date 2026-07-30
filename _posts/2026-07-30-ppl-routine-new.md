@@ -79,13 +79,17 @@ tags: [ppl, hypertrophy, strength, abs]
 
 ## Core
 
-| Exercise | Sets | Reps |
-|-----------|-----:|------:|
-| Dragon Flag | 3 | 4–8 |
-| Cable Crunch | 3 | 12–15 |
+| Exercise | Sets | Reps | Primary Function |
+|-----------|-----:|------:|------------------|
+| Cable Crunch | 4 | 8–12 | Loaded spinal flexion |
+| Hanging Leg Raise* | 3 | 8–12 | Lower rectus / posterior pelvic tilt |
 
-> Dragon flags require excellent trunk control. Maintain a neutral spine and stop each repetition before losing pelvic control.
-{: .prompt-warning }
+*Initiate each repetition by curling the pelvis toward the rib cage. Avoid simply lifting the legs to 90°, as this shifts more work to the hip flexors.
+
+> Treat the cable crunch like any hypertrophy exercise.
+>
+> Progressively overload it through increased load while maintaining full spinal flexion and control.
+{: .prompt-tip }
 
 ---
 
@@ -130,10 +134,21 @@ tags: [ppl, hypertrophy, strength, abs]
 
 ## Core
 
-| Exercise | Sets | Reps |
-|-----------|-----:|------:|
-| Ab Wheel Rollout | 3 | 8–12 |
-| Pallof Press | 3 | 10–12 / side |
+| Exercise | Sets | Reps | Primary Function |
+|-----------|-----:|------:|------------------|
+| Dragon Flag | 3 | 5–8 | Anti-extension |
+| Pallof Press | 2 | 12 / side | Anti-rotation |
+| Cable Wood Chop* | 2 | 12–15 / side | Dynamic rotation |
+
+*Alternate **high-to-low** and **low-to-high** every 4–6 weeks.
+
+> Dragon Flags and Ab Wheel Rollouts train the same primary function (anti-extension).
+>
+> This routine intentionally keeps **Dragon Flags** and replaces the Ab Wheel with rotational work to improve movement diversity without increasing fatigue.
+{: .prompt-info }
+
+> Avoid heavy weighted side bends if maintaining a narrower waist is an aesthetic priority.
+{: .prompt-warning }
 
 ---
 
@@ -171,6 +186,88 @@ Example:
 | 3 | 30 kg × 8,8,8,8 |
 | 4 | 32.5 kg × 6,6,6,6 |
 
+---
+
+# Core Progression
+
+> The abdominal muscles respond to progressive overload like every other skeletal muscle.
+>
+> Treat core training as hypertrophy training—not endurance training.
+{: .prompt-tip }
+
+## Cable Crunch
+
+- 4 × 8–12
+- Add repetitions until all four sets reach **12 reps**.
+- Increase the weight and return to **8 reps**.
+
+Example:
+
+```text
+50 kg × 8,8,8,8
+
+↓
+
+50 kg × 10,10,10,10
+
+↓
+
+50 kg × 12,12,12,12
+
+↓
+
+55 kg × 8,8,8,8
+```
+
+---
+
+## Hanging Leg Raise
+
+Progression:
+
+1. Bent-knee variation
+2. Straight-leg variation
+3. 1-second pause at the top
+4. 2–3 second eccentric
+5. Dumbbell between the feet or ankle weights
+
+> The movement finishes by **posteriorly tilting the pelvis**, not by simply raising the feet.
+{: .prompt-tip }
+
+---
+
+## Dragon Flag
+
+Progression:
+
+1. Bent-leg Dragon Flag
+2. Full Dragon Flag
+3. Slow eccentric (3–5 seconds)
+4. Weighted Dragon Flag
+
+> Maintain a neutral lumbar position throughout the movement.
+>
+> Reduce the range of motion if spinal control is lost.
+{: .prompt-warning }
+
+---
+
+# Weekly Core Volume
+
+| Function | Sets |
+|----------|------:|
+| Loaded spinal flexion | 4 |
+| Lower rectus / posterior pelvic tilt | 3 |
+| Anti-extension | 3 |
+| Anti-rotation | 2 |
+| Dynamic rotation | 2 |
+
+**Total:** **14 sets/week**
+
+> Each movement has a unique purpose.
+>
+> Volume is redistributed rather than increased, reducing functional redundancy while preserving recovery.
+{: .prompt-info }
 ---
 
 # Cardio

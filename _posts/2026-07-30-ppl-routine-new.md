@@ -1,8 +1,8 @@
 ---
-title: Scientific PPL Routine
+title: PPL Routine
 description: Evidence-based Push/Pull/Legs routine prioritizing chest, legs and core.
-categories: [Fitness, Training]
-tags: [ppl, hypertrophy, strength, abs]
+categories: [Fitness]
+tags: [ppl, hypertrophy, strength, abs, gym]
 ---
 
 # Scientific Push/Pull/Legs Routine

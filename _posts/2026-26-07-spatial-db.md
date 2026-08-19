@@ -1,5 +1,5 @@
 ---
-title: "PostGIS & Spatial Databases: A Getting-Started Refresher"
+title: PostGIS & Spatial Databases A Getting-Started Refresher
 author: hcoco1
 date: 2026-07-26 14:10:00 +0800
 categories: [GIS, Spatial SQL]

@@ -1,8 +1,11 @@
 ---
 title: PostgreSQL Through SSH
-description: Quick Guide: Python → PostgreSQL Through SSH
+author: hcoco1
+date: 2026-08-16 18:20:00 +0200
+description: Quick Guide Python → PostgreSQL Through SSH
 categories: [Python]
 tags: [ssh, sql, postgres]
+toc: true
 ---
 
 # Quick Guide: Python → PostgreSQL Through SSH

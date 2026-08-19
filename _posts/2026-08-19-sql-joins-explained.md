@@ -1,12 +1,10 @@
 ---
 title: SQL Joins Explained INNER, LEFT, RIGHT, and FULL JOIN
+author: hcoco1
 date: 2026-08-19 21:20:00 +0200
 categories: [Courses]
 tags: [sql, joins, postgresql, databases]
 description: A practical explanation of INNER, LEFT, RIGHT, and FULL JOIN using photos and users as a simple example.
-image:
-  path: /assets/img/posts/joins-cheatsheet.png
-  alt: SQL joins cheatsheet showing INNER, LEFT, RIGHT, and FULL JOIN
 toc: true
 comments: true
 pin: false

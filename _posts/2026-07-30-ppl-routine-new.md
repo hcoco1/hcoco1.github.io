@@ -5,7 +5,7 @@ categories: [Fitness]
 tags: [ppl, hypertrophy, strength, abs, gym]
 ---
 
-# Scientific Push/Pull/Legs Routine
+# Push/Pull/Legs Routine
 
 > **Primary Goals**
 >
